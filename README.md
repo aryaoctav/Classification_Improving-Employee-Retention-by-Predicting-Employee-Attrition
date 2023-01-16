@@ -43,7 +43,7 @@ For example, based on the result above we can assume that the length of time emp
 And from the picture above we can conclude that the division that has the highest turn over rate is the Data Analyst division. This is important for companies to immediately fill vacant seats so as not to reduce the company's operational productivity.
 
 
-[Check full version code](https://github.com/aryaoctav/Classification_Improving-Employee-Retention-by-Predicting-Employee-Attrition/blob/main/Notebook%20Improving%20Employee%20Retention.ipynb))
+[Check full version code](https://github.com/aryaoctav/Classification_Improving-Employee-Retention-by-Predicting-Employee-Attrition/blob/main/Notebook%20Improving%20Employee%20Retention.ipynb)
 
 ## Contributing
 
@@ -62,4 +62,5 @@ If you are interested to have a conversation related to the Data Analyst/Data Sc
 * [Rakamin Academy](https://www.rakamin.com/)
 
 Thank you so much!
+
 Have a great day!
