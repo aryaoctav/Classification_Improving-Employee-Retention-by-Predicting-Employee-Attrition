@@ -34,10 +34,12 @@ pip install plotly
 ## Usage
 This project can be used to determine which employee that most likely is going to resign and finding insights about the most influenced factors that make employees apply for resignation.
 
-![image](https://user-images.githubusercontent.com/105413896/212597467-b8e41d3f-de87-4069-9480-80dc67f9e895.png).
+![image](https://user-images.githubusercontent.com/105413896/212597467-b8e41d3f-de87-4069-9480-80dc67f9e895.png)
+
 For example, based on the result above we can assume that the length of time employees work for the company greatly influences the employee's decision to resign in the XGBoost algorithm.
 
-![image](https://user-images.githubusercontent.com/105413896/212597822-43e25fcc-d05b-4829-a387-e540497f5cf5.png).
+![image](https://user-images.githubusercontent.com/105413896/212597822-43e25fcc-d05b-4829-a387-e540497f5cf5.png)
+
 And from the picture above we can conclude that the division that has the highest turn over rate is the Data Analyst division. This is important for companies to immediately fill vacant seats so as not to reduce the company's operational productivity.
 
 
